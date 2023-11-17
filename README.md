@@ -1,3 +1,5 @@
+Fork of the gatk git for reference and adapting for running with para clarabricks given the documentation for that isn't always clear. The docs here include links to the current broad institute reference, gtf and known variant files which need to be built off of the same version of each other to ensure compatibility. It is therefore possible that updates to the grch38 refs are available but without a corresponding known reference they are not much use.
+
 # gatk4-rnaseq-germline-snps-indels
 Workflows for processing RNA data for germline short variant discovery with GATK v4 and related tools
 
